@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/shubhamkcs/semiFlix/issues"
   },
-  "homepage": "https://github.com/shubhamkcs/semiFlix#readme"
+  "homepage": "https://github.com/shubhamkcs/semiFlix#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
